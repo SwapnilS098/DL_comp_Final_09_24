@@ -1,0 +1,10 @@
+Dataset_size:0
+SSIM:nan
+PSNR:nan
+LPIPS:nan
+CR:nan
+ORG_SIZE:nan
+RECON_SIZE:nan
+ORG_SIFT:nan
+RECON_SIFT:nan
+SIFT_PER_RED:nan

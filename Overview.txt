@@ -1,0 +1,16 @@
+
+Here we are finalizing the materials for the DL based image compression.
+
+-Environment for running the inference
+-Scripts for 
+	-Running inference using the PyTorch
+	-Converting the PyTorch model to ONNX 
+	-Running inference from ONNX version
+	-Converting to the TensorRT from ONNX
+	-Running inference from the TensorRT version
+	-Quality evaluation for the datasets
+	-Homography testing of the output
+	-FLOPS calculations
+
+-Sample S1 FPV small dataset
+-Final presentation of the details and the results

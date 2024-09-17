@@ -1,0 +1,5 @@
+Model Name: bmshj2018-factorized
+Avg. Comp. Time: 0.07050000000000001
+Avg. SSIM: 0.8850000000000001
+Avg. PSNR: 29.071500000000004
+Avg. Total Process Time per Image: 0.24349999999999997
